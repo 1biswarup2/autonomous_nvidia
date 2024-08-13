@@ -15,7 +15,7 @@ A self-driving car, also known as an autonomous vehicle, driverless car, or robo
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Complete-Self-Driving-Car.git
+https://github.com/1biswarup2/autonomous_nvidia.git
 ```
 
 ## STEP 02: 
